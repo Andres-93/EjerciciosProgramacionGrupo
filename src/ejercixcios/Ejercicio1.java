@@ -6,7 +6,7 @@ public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		
-		
+		//declaramos las variables
 		int limitInf = 0;
 		int limitSup = 0;
 		
